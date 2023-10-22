@@ -49,12 +49,6 @@ In this project, we have implemented a password generator and password defender.
 <hr width="100%" color="blue">
 
 
-<!-- * A **Student** can view his/her result, courses, teachers, library information etc. 
-And a student can change his/her personal information such as phone number address etc. 
-
-![teacher](images/teacher-panel.png)
-<p align="center">Teacher Panel</p> -->
-
 
 #### This Project is made using Python - Tkinter and SQL Database (SQLite).
 
