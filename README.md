@@ -7,7 +7,7 @@ In this project, we have implemented a password generator and password defender.
 
 ![code](Images_readme/code-generate-pass.png)
 <p align="center">Algorithm for generating password</p>
-<hr width="50%" color="blue">
+<hr width="100%" color="blue">
 
 ![code](Images_readme/code-reg-mp-symbol.png)
 <p align="center">Code for regex</p>
